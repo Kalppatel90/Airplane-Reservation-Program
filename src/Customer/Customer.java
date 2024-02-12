@@ -6,7 +6,7 @@ public class Customer {
 	private String name;
 	private String email;
 	private int userID;
-	
+	private int test;
 	
 	public void setID(int newID) {
 		this.userID = newID;
